@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Re-arranged directory">
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 1779">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="D:\Projects\LeetCode\Problem 976 - Largest Perimeter Triangle " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.x_and_y">
+  <component name="RunManager" selected="Python.sign_of_prod">
     <configuration name="largest_triangle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,6 +108,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sign_of_prod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 1822 - Sign of the Product of an Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 1822 - Sign of the Product of an Array/sign_of_prod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="x_and_y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sign_of_prod" />
         <item itemvalue="Python.x_and_y" />
         <item itemvalue="Python.largest_triangle (1)" />
         <item itemvalue="Python.largest_triangle" />
@@ -161,12 +183,27 @@
       <option name="project" value="LOCAL" />
       <updated>1671722471378</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Problem 1779">
+      <created>1671724275234</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671724275234</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Problem 1779">
+      <created>1671724443650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671724443650</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Re-arranged directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Re-arranged directory" />
+    <MESSAGE value="Problem 1779" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 1779" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -175,11 +212,6 @@
           <url>file://$PROJECT_DIR$/Problem 976 - Largest Perimeter Triangle/largest_triangle.py</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Problem 1779 - Find Nearest Point That Has the Same X or Y Coordinate/x_and_y.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
