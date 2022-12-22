@@ -4,53 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/Problem 1 - Two Sums.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/.idea/Problem 1 - Two Sums.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/Problem 1 - Two Sums" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/Problem 1 - Two Sums" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1/twosums.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1 - Two Sums/twosums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1491/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1491 - Average Salary Excluding the Minimum and Maximum Salary/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1491/.idea/Problem 1491.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1491 - Average Salary Excluding the Minimum and Maximum Salary/.idea/Problem 1491.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1491/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1491 - Average Salary Excluding the Minimum and Maximum Salary/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1491/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1491 - Average Salary Excluding the Minimum and Maximum Salary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1491/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1491 - Average Salary Excluding the Minimum and Maximum Salary/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1491/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1491 - Average Salary Excluding the Minimum and Maximum Salary/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1491/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1491 - Average Salary Excluding the Minimum and Maximum Salary/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1491/avgsalary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1491 - Average Salary Excluding the Minimum and Maximum Salary/avgsalary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1523/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1523 - Count Odd Numbers in an Interval Range/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1523/.idea/Problem 1523 - Count Odd Numbers in an Interval Range.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1523 - Count Odd Numbers in an Interval Range/.idea/Problem 1523 - Count Odd Numbers in an Interval Range.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1523/oddnums.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1523 - Count Odd Numbers in an Interval Range/oddnums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/.idea/Problem 191.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/.idea/Problem 191.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 191/hammingweight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 191 - Number of 1 bits/hammingweight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/.idea/Problem 2 - Add Two Numbes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/.idea/Problem 2 - Add Two Numbes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/Problem 2 - Add Two Numbers - Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/Problem 2 - Add Two Numbers - Solution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/Problem 2 - Add Two Numbers.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/Problem 2 - Add Two Numbers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/addtwonumbers - solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/addtwonumbers - solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 2/addtwonumbes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 2 - Add Two Numbers/addtwonumbes.py" afterDir="false" />
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Re-arranged directory">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +44,7 @@
       <recent name="D:\Projects\LeetCode\Problem 976 - Largest Perimeter Triangle " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.largest_triangle (1)">
+  <component name="RunManager" selected="Python.x_and_y">
     <configuration name="largest_triangle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,8 +108,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="x_and_y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 1779 - Find Nearest Point That Has the Same X or Y Coordinate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 1779 - Find Nearest Point That Has the Same X or Y Coordinate/x_and_y.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.x_and_y" />
         <item itemvalue="Python.largest_triangle (1)" />
         <item itemvalue="Python.largest_triangle" />
         <item itemvalue="Python.product_sum_difference" />
@@ -170,7 +147,26 @@
       <option name="presentableId" value="Default" />
       <updated>1671719996020</updated>
     </task>
+    <task id="LOCAL-00001" summary="Re-arranged directory">
+      <created>1671722459428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671722459428</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Re-arranged directory">
+      <created>1671722471378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671722471378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Re-arranged directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-arranged directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -179,6 +175,11 @@
           <url>file://$PROJECT_DIR$/Problem 976 - Largest Perimeter Triangle/largest_triangle.py</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem 1779 - Find Nearest Point That Has the Same X or Y Coordinate/x_and_y.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
