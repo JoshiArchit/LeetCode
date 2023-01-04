@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 1480 v1">
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 1480 v1.2 - Multiple approaches">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem 1480 - Running Sum of 1d Array/runningsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1480 - Running Sum of 1d Array/runningsum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <recent name="D:\Projects\LeetCode\Problem 976 - Largest Perimeter Triangle " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.runningsum">
+  <component name="RunManager" selected="Python.findpivot">
     <configuration name="a_progression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,6 +62,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 1502 - Can Make Arithmetic Progression From Sequence/a_progression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findpivot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 724 - Find Pivot Index" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 724 - Find Pivot Index/findpivot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,27 +133,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sign_of_prod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 1822 - Sign of the Product of an Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 1822 - Sign of the Product of an Array/sign_of_prod.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="string_swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.findpivot" />
         <item itemvalue="Python.runningsum" />
         <item itemvalue="Python.string_swap" />
         <item itemvalue="Python.happy_num" />
         <item itemvalue="Python.a_progression" />
-        <item itemvalue="Python.sign_of_prod" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672845308114</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Problem 1480 v1.2">
+      <created>1672846449558</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846449558</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Problem 1480 v1.2 - Multiple approaches">
+      <created>1672846474197</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846474197</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,7 +267,9 @@
     <MESSAGE value="Problem 1502" />
     <MESSAGE value="Problem 202" />
     <MESSAGE value="Problem 1480 v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 1480 v1" />
+    <MESSAGE value="Problem 1480 v1.2" />
+    <MESSAGE value="Problem 1480 v1.2 - Multiple approaches" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 1480 v1.2 - Multiple approaches" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
