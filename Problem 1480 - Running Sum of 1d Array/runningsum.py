@@ -7,7 +7,7 @@ Version :   v1.0
 Revisions :
 v1.0 - Outlined logic and first attempt. All test cases passed.
        Beats 25.34% runtime, 26.68% memory
-v1.1 - Second attempt without using a new list - SUBMITTED.
+v1.1 - Second attempt without using a new list - SUBMITTED
 v1.2 - Third attempt, with a fewer number of iterations inside the loop.
 """
 
