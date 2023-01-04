@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 724 v1.2 - Submitted">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Leetcode problem 704 - Binary Search - Submitted." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672849476502</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Leetcode problem 704 - Binary Search - Submitted.">
+      <created>1672851129690</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672851129690</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,7 +282,8 @@
     <MESSAGE value="Problem 1480 v1.2" />
     <MESSAGE value="Problem 1480 v1.2 - Multiple approaches" />
     <MESSAGE value="Problem 724 v1.2 - Submitted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 724 v1.2 - Submitted" />
+    <MESSAGE value="Leetcode problem 704 - Binary Search - Submitted." />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode problem 704 - Binary Search - Submitted." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
