@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 1502">
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 202">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Projects/LeetCode"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -44,7 +45,7 @@
       <recent name="D:\Projects\LeetCode\Problem 976 - Largest Perimeter Triangle " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.happy_num">
+  <component name="RunManager" selected="Python.runningsum">
     <configuration name="a_progression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="largest_triangle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="runningsum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 976 - Largest Perimeter Triangle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 1480 - Running Sum of 1d Array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 976 - Largest Perimeter Triangle/largest_triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 1480 - Running Sum of 1d Array/runningsum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="x_and_y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 1779 - Find Nearest Point That Has the Same X or Y Coordinate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 1790 - Check if One String Swap Can Make Strings Equal" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 1779 - Find Nearest Point That Has the Same X or Y Coordinate/x_and_y.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 1790 - Check if One String Swap Can Make Strings Equal/string_swap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.runningsum" />
+        <item itemvalue="Python.string_swap" />
         <item itemvalue="Python.happy_num" />
         <item itemvalue="Python.a_progression" />
         <item itemvalue="Python.sign_of_prod" />
-        <item itemvalue="Python.x_and_y" />
-        <item itemvalue="Python.largest_triangle (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671760357075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Problem 202">
+      <created>1671762700788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671762700788</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Problem 202">
+      <created>1671762707068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671762707068</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,7 +241,8 @@
     <MESSAGE value="Problem 1779" />
     <MESSAGE value="Problem 1822" />
     <MESSAGE value="Problem 1502" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 1502" />
+    <MESSAGE value="Problem 202" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 202" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -235,6 +251,11 @@
           <url>file://$PROJECT_DIR$/Problem 976 - Largest Perimeter Triangle/largest_triangle.py</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem 1790 - Check if One String Swap Can Make Strings Equal/string_swap.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
