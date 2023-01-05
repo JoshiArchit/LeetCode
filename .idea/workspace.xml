@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="LeetCode Problem 1137 - Tribonacci number">
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="LeetCode Problem 205 - Isomorphic strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="D:\Projects\LeetCode\Problem 976 - Largest Perimeter Triangle " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.isostrings">
+  <component name="RunManager" selected="Python.subsequence">
     <configuration name="containsduplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="searchposition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 35 - Search Insert Position" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/392. Is Subsequence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 35 - Search Insert Position/searchposition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/392. Is Subsequence/subsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.subsequence" />
         <item itemvalue="Python.isostrings" />
         <item itemvalue="Python.tribonacci" />
         <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.containsduplicates" />
-        <item itemvalue="Python.searchposition" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672881209343</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="LeetCode Problem 205 - Isomorphic strings">
+      <created>1672931098642</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1672931098642</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -334,7 +341,8 @@
     <MESSAGE value="Problem 217 - Contains Duplicates" />
     <MESSAGE value="Problem 509 - Fibonacci" />
     <MESSAGE value="LeetCode Problem 1137 - Tribonacci number" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Problem 1137 - Tribonacci number" />
+    <MESSAGE value="LeetCode Problem 205 - Isomorphic strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Problem 205 - Isomorphic strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -353,6 +361,11 @@
           <url>file://$PROJECT_DIR$/509. Fibonacci Number/fibonacci.py</url>
           <line>12</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/392. Is Subsequence/subsequence.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
