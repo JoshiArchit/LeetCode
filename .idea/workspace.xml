@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Re-organising Files&#10;Problem 278 - Submitted&#10;Problem 35 - Submitted">
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 217 - Contains Duplicates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -38,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "D:/Projects/LeetCode",
@@ -49,7 +51,7 @@
       <recent name="D:\Projects\LeetCode\Problem 976 - Largest Perimeter Triangle " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.containsduplicates">
+  <component name="RunManager" selected="Python.fibonacci">
     <configuration name="badversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="findpivot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 724 - Find Pivot Index" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/509. Fibonacci Number" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 724 - Find Pivot Index/findpivot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/509. Fibonacci Number/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.containsduplicates" />
         <item itemvalue="Python.searchposition" />
         <item itemvalue="Python.badversion" />
         <item itemvalue="Python.binarysearch" />
-        <item itemvalue="Python.findpivot" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672878003269</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Problem 217 - Contains Duplicates">
+      <created>1672878810682</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672878810682</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,7 +310,8 @@
     <MESSAGE value="Problem 724 v1.2 - Submitted" />
     <MESSAGE value="Leetcode problem 704 - Binary Search - Submitted." />
     <MESSAGE value="Re-organising Files&#10;Problem 278 - Submitted&#10;Problem 35 - Submitted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Re-organising Files&#10;Problem 278 - Submitted&#10;Problem 35 - Submitted" />
+    <MESSAGE value="Problem 217 - Contains Duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 217 - Contains Duplicates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -315,6 +325,11 @@
           <url>file://$PROJECT_DIR$/1790. Check if One String Swap Can Make Strings Equal/string_swap.py</url>
           <line>5</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/509. Fibonacci Number/fibonacci.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
