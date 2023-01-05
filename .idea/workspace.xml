@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="LeetCode Problem 205 - Isomorphic strings">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="LeetCode Problem 392 - Is Subsequence v1.0">
+      <change beforePath="$PROJECT_DIR$/392. Is Subsequence/subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/392. Is Subsequence/subsequence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672931098642</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="LeetCode Problem 392 - Is Subsequence v1.0">
+      <created>1672935399964</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1672935399964</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -342,7 +349,8 @@
     <MESSAGE value="Problem 509 - Fibonacci" />
     <MESSAGE value="LeetCode Problem 1137 - Tribonacci number" />
     <MESSAGE value="LeetCode Problem 205 - Isomorphic strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Problem 205 - Isomorphic strings" />
+    <MESSAGE value="LeetCode Problem 392 - Is Subsequence v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Problem 392 - Is Subsequence v1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -364,7 +372,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/392. Is Subsequence/subsequence.py</url>
-          <line>12</line>
+          <line>13</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
