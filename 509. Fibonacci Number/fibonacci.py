@@ -5,7 +5,7 @@ Description :   LeetCode Problem 509 - Fibonacci
 Language :  Python3
 Version :   v1.0
 Revisions :
-v1.0 - Using tail recursion
+v1.0 - Using classic recursion
 
 """
 

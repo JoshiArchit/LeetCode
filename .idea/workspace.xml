@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 217 - Contains Duplicates">
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="Problem 509 - Fibonacci">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/509. Fibonacci Number/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/509. Fibonacci Number/fibonacci.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="D:\Projects\LeetCode\Problem 976 - Largest Perimeter Triangle " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fibonacci">
+  <component name="RunManager" selected="Python.tribonacci">
     <configuration name="badversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,27 +66,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 278 - First Bad Version/badversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="binarysearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem 704 - Binary Search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 704 - Binary Search/binarysearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,13 +137,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tribonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1137. N-th Tribonacci Number" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1137. N-th Tribonacci Number/tribonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tribonacci" />
         <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.containsduplicates" />
         <item itemvalue="Python.searchposition" />
         <item itemvalue="Python.badversion" />
-        <item itemvalue="Python.binarysearch" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +296,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672878810682</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Problem 509 - Fibonacci">
+      <created>1672880296846</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1672880296846</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Problem 509 - Fibonacci">
+      <created>1672880303112</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1672880303112</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -311,7 +326,8 @@
     <MESSAGE value="Leetcode problem 704 - Binary Search - Submitted." />
     <MESSAGE value="Re-organising Files&#10;Problem 278 - Submitted&#10;Problem 35 - Submitted" />
     <MESSAGE value="Problem 217 - Contains Duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 217 - Contains Duplicates" />
+    <MESSAGE value="Problem 509 - Fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 509 - Fibonacci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
