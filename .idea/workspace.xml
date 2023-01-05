@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="LeetCode Problem 392 - Is Subsequence v1.0">
-      <change beforePath="$PROJECT_DIR$/392. Is Subsequence/subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/392. Is Subsequence/subsequence.py" afterDir="false" />
+    <list default="true" id="3fdcf9d1-6fc9-49b1-8286-d343457e23eb" name="Changes" comment="LeetCode Problem 392 - Is Subsequence v1.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +51,8 @@
       <recent name="D:\Projects\LeetCode\Problem 976 - Largest Perimeter Triangle " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.subsequence">
-    <configuration name="containsduplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.arraysquares">
+    <configuration name="arraysquares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/217. Contains Duplicate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/977. Squares of a Sorted Array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/217. Contains Duplicate/containsduplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/977. Squares of a Sorted Array/arraysquares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.subsequence" />
+        <item itemvalue="Python.arraysquares" />
         <item itemvalue="Python.isostrings" />
+        <item itemvalue="Python.subsequence" />
         <item itemvalue="Python.tribonacci" />
         <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.containsduplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672935399964</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="LeetCode Problem 392 - Is Subsequence v1.1">
+      <created>1672936116435</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1672936116435</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -350,7 +357,8 @@
     <MESSAGE value="LeetCode Problem 1137 - Tribonacci number" />
     <MESSAGE value="LeetCode Problem 205 - Isomorphic strings" />
     <MESSAGE value="LeetCode Problem 392 - Is Subsequence v1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Problem 392 - Is Subsequence v1.0" />
+    <MESSAGE value="LeetCode Problem 392 - Is Subsequence v1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Problem 392 - Is Subsequence v1.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
