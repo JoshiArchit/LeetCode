@@ -12,10 +12,12 @@ def rotate(nums: list[int], k: int) -> None:
     """
     Do not return anything, modify nums in-place instead.
     """
-    for i in range(0, k):
-        for j in range(0,len(nums),-1):
-            print(j)
+    n = len(nums)
+    a = [0] * n
+    for i in range(n):
+        a[(i + k) % n] = nums[i]
 
+    nums[:] = a
 
 a = [1, 2, 3, 4, 5, 6, 7]
 b = 3
