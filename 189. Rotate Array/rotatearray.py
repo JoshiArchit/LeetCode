@@ -4,7 +4,7 @@ Author :    Archit Joshi
 Description :   Leetcode problem 189 - Rotate Array
 Language :  Python3
 Revisions :
-v1.0 - Initial attempt. Brute Force
+v1.0 - Initial attempt. Brute Force - SUBMITTED
 """
 
 
