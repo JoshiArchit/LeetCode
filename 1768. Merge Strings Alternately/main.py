@@ -5,11 +5,12 @@ def mergeAlternately(word1: str, word2: str) -> str:
 
     for i in range(max(m, n)):
         if i < m:
-            final_string+=word1[i]
+            final_string += word1[i]
         if i < n:
-            final_string+=word2[i]
+            final_string += word2[i]
         i += 1
     return final_string
+
 
 word1 = 'abc'
 word2 = 'pqr'
